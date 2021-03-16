@@ -1,11 +1,7 @@
 body
 { 
     text-align: center;
-<<<<<<< HEAD
-    color:blue;
-=======
-    color:red;
->>>>>>> cabecera
+    color:#333;
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
